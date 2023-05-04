@@ -5,3 +5,19 @@ WRITE HERE IDEAS FOR THE PROJECT
 2) X -> 
   y -> metric item label
   
+
+1) Define the problem: Clearly define the problem you're trying to solve, the data you have available, and the evaluation metric(s) you'll use to measure the performance of your models.
+
+2) Prepare the data: Prepare your data by cleaning it, handling missing values, and transforming it into a format that can be used by your models. This may involve splitting your data into training and validation/test sets.
+
+3) elect a variety of models: Select a range of models that are appropriate for your problem, such as regression models, decision trees, support vector machines, neural networks, or others.
+
+4) Train the models: Train each model on your training data and evaluate its performance on the validation/test data using your chosen evaluation metric(s).
+
+5) Tune hyperparameters: Try different hyperparameters for each model and evaluate their performance on the validation/test data. Hyperparameters are settings that control the behavior of the model during training, such as the learning rate, regularization strength, or number of layers in a neural network.
+
+6) Compare performance: Compare the performance of each model based on your chosen evaluation metric(s) on the validation/test data. Select the best-performing model(s) for further evaluation.
+
+7) Evaluate on new data: Evaluate the best-performing model(s) on a new dataset to see how they perform in the real world.
+
+8) Deploy the model: Deploy the best-performing model in your application or system, and monitor its performance over time.
